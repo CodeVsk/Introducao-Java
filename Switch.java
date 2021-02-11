@@ -1,4 +1,4 @@
-public class fluxoSwitch {
+public class Switch {
     public static void main(String[] args) {
         byte dia = 1;
         switch (dia) {
